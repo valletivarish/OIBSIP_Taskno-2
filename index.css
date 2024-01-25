@@ -1,0 +1,77 @@
+*{
+    margin: 0%;
+    padding: 0%; 
+    box-sizing: border-box;
+}
+
+#name{
+    padding-top: 320px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    padding-bottom: 2px;
+}
+.first{
+    height: 750px;
+    background-color: black;
+    display: block;
+    text-align: center;
+}
+h3{
+    color: white;
+    font-weight: 100;
+    font-size: 65px;
+    font-family:Calibri;
+    font-style: italic;
+}
+.second{
+    margin-top: 0%;
+    height: 750px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    max-width: 78rem;
+    margin: 0px auto;
+    background: #eeeded;
+    color: black;
+    align-items: center;
+    padding: 0 0 0 1rem;
+    margin-bottom: 0%;
+}
+img{
+    cursor: pointer;
+    transition: all ease 0.5s;
+    height: 750px;
+}
+#story1{
+    text-align: justify;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.third{
+    height: 852px;
+    background-color: black;
+    display: block;
+    text-align: center;
+}
+
+.biography{
+    padding-top: 50px;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+p{
+    padding-top: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+    overflow: hidden;
+    color: white;
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0%;
+}
